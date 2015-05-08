@@ -1,0 +1,14 @@
+C:\Users\Naumovski\visual studio 2013\VIZUELNO\DontTapTheWhiteTiles\DontTapTheWhiteTiles\bin\Debug\DontTapTheWhiteTiles.exe.config
+C:\Users\Naumovski\visual studio 2013\VIZUELNO\DontTapTheWhiteTiles\DontTapTheWhiteTiles\bin\Debug\DontTapTheWhiteTiles.exe
+C:\Users\Naumovski\visual studio 2013\VIZUELNO\DontTapTheWhiteTiles\DontTapTheWhiteTiles\bin\Debug\DontTapTheWhiteTiles.pdb
+C:\Users\Naumovski\visual studio 2013\VIZUELNO\DontTapTheWhiteTiles\DontTapTheWhiteTiles\obj\Debug\DontTapTheWhiteTiles.csprojResolveAssemblyReference.cache
+C:\Users\Naumovski\visual studio 2013\VIZUELNO\DontTapTheWhiteTiles\DontTapTheWhiteTiles\obj\Debug\DontTapTheWhiteTiles.Properties.Resources.resources
+C:\Users\Naumovski\visual studio 2013\VIZUELNO\DontTapTheWhiteTiles\DontTapTheWhiteTiles\obj\Debug\DontTapTheWhiteTiles.csproj.GenerateResource.Cache
+C:\Users\Naumovski\visual studio 2013\VIZUELNO\DontTapTheWhiteTiles\DontTapTheWhiteTiles\obj\Debug\DontTapTheWhiteTiles.exe
+C:\Users\Naumovski\visual studio 2013\VIZUELNO\DontTapTheWhiteTiles\DontTapTheWhiteTiles\obj\Debug\DontTapTheWhiteTiles.pdb
+C:\Users\Naumovski\visual studio 2013\VIZUELNO\DontTapTheWhiteTiles\DontTapTheWhiteTiles\obj\Debug\DontTapTheWhiteTiles.FirstForm.resources
+C:\Users\Naumovski\visual studio 2013\VIZUELNO\DontTapTheWhiteTiles\DontTapTheWhiteTiles\obj\Debug\DontTapTheWhiteTiles.NewGame.resources
+C:\Users\Naumovski\visual studio 2013\VIZUELNO\DontTapTheWhiteTiles\DontTapTheWhiteTiles\obj\Debug\DontTapTheWhiteTiles.SelectGame.resources
+C:\Users\Naumovski\visual studio 2013\VIZUELNO\DontTapTheWhiteTiles\DontTapTheWhiteTiles\obj\Debug\DontTapTheWhiteTiles.EnterNameAndSurname.resources
+C:\Users\Naumovski\visual studio 2013\VIZUELNO\DontTapTheWhiteTiles\DontTapTheWhiteTiles\obj\Debug\DontTapTheWhiteTiles.HighScores.resources
+C:\Users\Naumovski\visual studio 2013\VIZUELNO\DontTapTheWhiteTiles\DontTapTheWhiteTiles\obj\Debug\DontTapTheWhiteTiles.About.resources
